@@ -38,13 +38,6 @@ Esta API proporciona información sobre personajes, episodios y ubicaciones de l
 
 //Endpoint principal utilizado: https://rickandmortyapi.com/api/character
 
-⚙️ Tecnologías Utilizadas
-React (con Vite)
-JavaScript (ES6+)
-Axios
-React Toastify
-CSS (estilos personalizados)
-LocalStorage
 
 🔄 Desarrollo e Implementación
 
